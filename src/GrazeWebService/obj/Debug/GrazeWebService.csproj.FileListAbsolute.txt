@@ -1,0 +1,6 @@
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\bin\GrazeWebService.dll.config
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\bin\GrazeWebService.dll
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\bin\GrazeWebService.pdb
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\obj\Debug\GrazeWebService.csprojResolveAssemblyReference.cache
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\obj\Debug\GrazeWebService.dll
+c:\users\mahe\documents\visual studio 2017\Projects\GrazeWebService\GrazeWebService\obj\Debug\GrazeWebService.pdb
